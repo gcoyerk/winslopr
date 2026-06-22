@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "WinUtil Tweaks",
+    "Author": "ChrisTitusTech",
+    "Category": "Tweaks",
+    "Description": "Registry tweaks collection covering Taskbar, Explorer, Privacy, Performance, Accessibility and more. Based on ChrisTitusTech WinUtil.",
+    "Type": "ini",
+    "Filename": "WinUtil Tweaks.ini",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/WinUtil%20Tweaks.ini"
+  },
+  {
+    "Name": "Chris Titus App",
+    "Author": "ChrisTitusTech",
+    "Category": "Utilities",
+    "Description": "Launches Chris Titus Tech's all-in-one Windows utility for installing programs, applying tweaks, fixes and updates.",
+    "Type": "ps1",
+    "Filename": "ChrisTitusApp.ps1",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/ChrisTitusApp.ps1"
+  },
+  {
+    "Name": "Win11Debloat",
+    "Author": "Raphire",
+    "Category": "Debloat",
+    "Description": "Removes bloatware and optimizes Windows 11 using Raphire's Win11Debloat script.",
+    "Type": "ps1",
+    "Filename": "Win11Debloat.ps1",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/Win11Debloat.ps1"
+  },
+  {
+    "Name": "Clear Icon Cache",
+    "Author": "builtbybel",
+    "Category": "Maintenance",
+    "Description": "Clears the Windows icon cache to fix incorrectly displayed or missing icons. Restarts Explorer automatically.",
+    "Type": "ps1",
+    "Filename": "Clear Icon Cache.ps1",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/Clear%20Icon%20Cache.ps1"
+  },
+  {
+    "Name": "Create Restore Point",
+    "Author": "builtbybel",
+    "Category": "Maintenance",
+    "Description": "Creates a Windows System Restore Point before making changes. Bypasses the 24h frequency limit automatically.",
+    "Type": "ps1",
+    "Filename": "Create Restore Point.ps1",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/Create%20Restore%20Point.ps1"
+  },
+  {
+    "Name": "Restart Explorer",
+    "Author": "builtbybel",
+    "Category": "Maintenance",
+    "Description": "Restarts Windows Explorer to apply UI changes without rebooting.",
+    "Type": "ps1",
+    "Filename": "Restart Explorer.ps1",
+    "Url": "https://raw.githubusercontent.com/builtbybel/FluentTweaker/main/store/Restart%20Explorer.ps1"
+  }
+]
