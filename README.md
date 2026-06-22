@@ -1,3 +1,5 @@
+<img width="969" height="647" alt="image" src="https://github.com/user-attachments/assets/505d892a-3ef9-4f01-afb7-cf9da9c0f4e5" />
+
 Winslop is a lightweight and focused utility designed to improve your overall system and gaming workflow. Built for users who value simplicity and control, Winslop provides a streamlined set of tools that integrate naturally into your environment without unnecessary complexity.
 
 At its core, Winslop emphasizes efficiency. The application is optimized to run smoothly alongside other software, ensuring minimal impact on system resources. Whether you're gaming, working, or multitasking, Winslop operates reliably in the background to support a stable experience.
