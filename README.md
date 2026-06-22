@@ -1,0 +1,2 @@
+# winslopr
+Windows Slop Remover.
